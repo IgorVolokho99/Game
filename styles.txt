@@ -1,0 +1,3 @@
+table - snake_case
+class - PascalCase
+files - snake_case
